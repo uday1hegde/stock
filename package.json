@@ -1,0 +1,17 @@
+{
+  "name": "stock",
+  "version": "1.0.0",
+  "description": "get stock quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uday",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0",
+    "wait.for": "^0.6.6",
+    "xlsx": "^0.11.17"
+  }
+}
